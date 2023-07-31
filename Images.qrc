@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Images/TitleBar/close_Icon.png</file>
+        <file>Resources/Images/TitleBar/maximize_Icon.png</file>
+        <file>Resources/Images/TitleBar/minimize_Icon.png</file>
+        <file>Resources/Images/midiNotes/configure_icon.png</file>
+        <file>Resources/Images/midiNotes/removeRule_icon.png</file>
+        <file>Resources/Images/midiNotes/novo_icon.png</file>
+        <file>Resources/Images/TabsContainer/scroll_left_icon.png</file>
+        <file>Resources/Images/TabsContainer/scroll_right_icon.png</file>
+    </qresource>
+</RCC>
